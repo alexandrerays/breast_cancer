@@ -9,3 +9,18 @@ Predicting breast cancer is important for a number of reasons. Breast cancer is 
 # Results
 
 Check the insights [here](https://github.com/alexandrerays/breast_cancer/blob/main/reports/apresentacao_BCG.pdf).
+
+# How to use
+
+### Descrição das pastas
+`data`: Contém todos os datasets (inputs e outputs)
+
+`model`: Contém os modelos na extensão `.pkl`
+
+`notebooks`: Contém os notebooks de análise exploratória e avaliação do modelo
+
+`report`: Apresentações e relatórios finais
+
+`src`: Scripts para manipulação dos dados e treinamento dos modelos
+
+O arquivo `install.sh` serve para instalar as dependências do projeto e no Linux pode ser instalado usando o comando `./install.sh`  

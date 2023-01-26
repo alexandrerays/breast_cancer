@@ -1,0 +1,11 @@
+pipenv install --python 3.6
+pipenv install pandas=="0.24.2"
+pipenv install scikit-learn=="0.21.2"
+pipenv install numpy=="1.16.4"
+pipenv install notebook=="5.7.8"
+pipenv install shap=="0.29.3"
+pipenv install scipy=="1.3.1"
+pipenv install statsmodels=="0.10.1"
+pipenv install seaborn=="0.9.0"
+pipenv install wordcloud=="1.5.0"
+pipenv install lightgbm=="2.0.12"
